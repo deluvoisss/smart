@@ -1,0 +1,1 @@
+{"rustc":4826714390000139368,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[6913375703034175521,"build_script_build",false,6123828779607220637]],"local":[{"Precalculated":"0.8.22"}],"rustflags":["-C","link-arg=-z","-C","link-arg=stack-size=8388608","-C","target-feature=-bulk-memory"],"config":0,"compile_kind":0}
